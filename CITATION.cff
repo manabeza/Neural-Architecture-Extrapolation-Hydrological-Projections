@@ -3,10 +3,10 @@ message: "If you use this software in your research, please cite it using the in
 title: "Neural Architecture and Extrapolation Uncertainty in Hybrid Hydrological Projections under Climate Change"
 type: software
 authors:
-    given-names: Manamno Beza
-    family-names: Dinku
-version: 1.0.0
-date-released: "2026-11-26"
+  - given-names: "Manamno Beza"
+    family-names: "Dinku"
+version: "1.0.0"
+date-released: "2026-11-27"
 abstract: >
   Research code for evaluating neural architecture and extrapolation
   uncertainty in hybrid SWAT-deep learning streamflow projections
