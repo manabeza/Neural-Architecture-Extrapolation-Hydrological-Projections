@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it using the information below."
+title: "Neural Architecture and Extrapolation Uncertainty in Hybrid Hydrological Projections under Climate Change"
+type: software
+authors:
+    given-names: Manamno Beza
+    family-names: Dinku
+version: 1.0.0
+date-released: "2026-11-26"
+abstract: >
+  Research code for evaluating neural architecture and extrapolation
+  uncertainty in hybrid SWAT-deep learning streamflow projections
+  under CMIP6 climate change scenarios. The framework evaluates
+  LSTM, GRU, TCN, MLP, and LSTM-FCN architectures under SSP245
+  and SSP585 climate scenarios.
